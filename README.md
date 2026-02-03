@@ -1,7 +1,3 @@
-- 👋 Hi, I’m @roman-coussement - you can find a portfolio of my work [here](https://github.com/roman-coussement/roman-coussement.github.io), or in the repository titled *roman-coussement.github.io* below.
-- 👀 I’m interested in: machine learning, statistics, and economics.
-- 🌱 I’m currently learning: Java and revising my Python knowledge
-- 📫 You can reach me via [LinkedIn](https://www.linkedin.com/in/roman-coussement/)
 
 
 <!---
